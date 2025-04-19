@@ -1,0 +1,2 @@
+# Apotex-Data-Analysis
+This project showcases an interactive Tableau visualization developed to display insightful data analysis and visual storytelling. The dashboard provides dynamic, data-driven visuals that help users explore and interpret complex datasets easily.
